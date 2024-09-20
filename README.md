@@ -3,7 +3,7 @@
 
 
 🔧 **Stack:**  
-- 🐘 PHP | 🟦 MySQL | Laravel 
+- 🐘 PHP | 🟦 MySQL | 🔪Laravel 
 - 🎨 SCSS | ⚛️ React | 🟢 Svelte  
 - 💻 JavaScript
 
