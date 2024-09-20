@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Uthman Dev!
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FFFFFF&lines=Full+Stack+Developer;Backend+Specialist+in+PHP%2C+SCSS%2C+React%2C+Svelte%2C+JavaScript)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FFFFFF&lines=Full+Stack+Developer;Backend+Specialist;Let's+Work+Together )
 
 
 🔧 **Stack:**  
-- 🐘 PHP | 🟦 MySQL  
+- 🐘 PHP | 🟦 MySQL | Laravel 
 - 🎨 SCSS | ⚛️ React | 🟢 Svelte  
 - 💻 JavaScript
 
