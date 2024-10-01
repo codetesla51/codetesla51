@@ -18,5 +18,14 @@ When I'm not deep into code, I'm probably exploring new tech trends, contributin
 
 ---
 
-📬 **Interested in working together?**  
-[![Let's Work Together](https://img.shields.io/badge/Let's_Work_Together!-brightgreen?style=for-the-badge)](https://github.com/codetesla51)
+💼 **Available for Jobs & Collaboration!**  
+Need a backend developer? I'm right here! Let's build something amazing together.
+
+---
+
+📬 **Get in Touch:**
+
+[![Let's Work Together](https://img.shields.io/badge/Let's_Work_Together!-brightgreen?style=for-the-badge)](https://github.com/codetesla51)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089196350154)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6jqex1)
