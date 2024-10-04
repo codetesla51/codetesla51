@@ -7,7 +7,7 @@
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 
 ### About Me:
-I'm a full-stack developer specializing in backend technologies. I enjoy solving complex problems using **PHP, MySQL**, and **JavaScript**. With a keen interest in frontend frameworks like **React** and **Vue.js**, I strive to create interactive and user-friendly interfaces. I’m always eager to adopt the latest technologies like **Tailwind CSS** and **Alpine.js** to enhance my workflow. Whether it's building from scratch or improving existing code, I focus on delivering efficient and scalable solutions.
+I'm a Nigerian full-stack developer specializing in backend technologies. I enjoy solving complex problems using **PHP, MySQL**, and **JavaScript**. I'm also passionate about contributing to open-source projects and making life easier for other developers. Whether it's building from scratch or improving existing code, I focus on delivering efficient, scalable, and impactful solutions. I’m particularly interested in frontend frameworks like **React** and **Vue.js**, always looking to create interactive and user-friendly interfaces. And of course, I keep up with the latest technologies like **Tailwind CSS** and **Alpine.js** to streamline my workflow. Let's build something amazing together!
 
 ### Let's Connect:
 I'm always open to new challenges, especially ones that help developers streamline their workflow. If you're looking for a collaborator, feel free to reach out!
@@ -36,6 +36,28 @@ I'm always open to new challenges, especially ones that help developers streamli
 If you're looking for a **backend developer** or a full-stack engineer to bring your ideas to life, let's work together and build something awesome! 🚀
 
 ---
+
+### 🔥 Latest Projects:
+
+#### [LyricLens](https://github.com/codetesla51/LyricLens)
+> **Description:** A tool that allows users to search for songs by entering lyrics or keywords, fetching song details and lyrics.  
+> 🌟 **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/codetesla51/LyricLens?style=social)  
+> [![LyricLens Repo](https://img.shields.io/badge/View_on_GitHub-blue?style=for-the-badge)](https://github.com/codetesla51/LyricLens)
+
+
+#### [ValutX](https://github.com/codetesla51/vaultx)
+> **Description:** A secure vault application to manage and encrypt sensitive information using PHP.  
+> 🌟 **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/codetesla51/vaultx?style=social)  
+> [![ValutX Repo](https://img.shields.io/badge/View_on_GitHub-blue?style=for-the-badge)](https://github.com/codetesla51/vaultx)
+
+
+#### [Harvester](https://github.com/codetesla51/harvester-)
+> **Description:** A web scraping tool to extract, organize, and download data from websites in structured formats.  
+> 🌟 **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/codetesla51/harvester-?style=social)  
+> [![Harvester Repo](https://img.shields.io/badge/View_on_GitHub-blue?style=for-the-badge)](https://github.com/codetesla51/harvester-)
+
+---
+
 
 📬 **Get in Touch:**
 
