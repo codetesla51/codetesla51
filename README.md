@@ -41,20 +41,17 @@ If you're looking for a **backend developer** or a full-stack engineer to bring 
 
 #### [LyricLens](https://github.com/codetesla51/LyricLens)
 > **Description:** A tool that allows users to search for songs by entering lyrics or keywords, fetching song details and lyrics.  
-> 🌟 **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/codetesla51/LyricLens?style=social)  
-> [![LyricLens Repo](https://img.shields.io/badge/View_on_GitHub-blue?style=for-the-badge)](https://github.com/codetesla51/LyricLens)
+
 
 
 #### [ValutX](https://github.com/codetesla51/vaultx)
 > **Description:** A secure vault application to manage and encrypt sensitive information using PHP.  
-> 🌟 **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/codetesla51/vaultx?style=social)  
-> [![ValutX Repo](https://img.shields.io/badge/View_on_GitHub-blue?style=for-the-badge)](https://github.com/codetesla51/vaultx)
+
 
 
 #### [Harvester](https://github.com/codetesla51/harvester-)
 > **Description:** A web scraping tool to extract, organize, and download data from websites in structured formats.  
-> 🌟 **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/codetesla51/harvester-?style=social)  
-> [![Harvester Repo](https://img.shields.io/badge/View_on_GitHub-blue?style=for-the-badge)](https://github.com/codetesla51/harvester-)
+
 
 ---
 
