@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Uthman Dev! 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FFFFFF&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
 
 🔧 **Tech Stack:**
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
