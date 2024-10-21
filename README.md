@@ -94,7 +94,3 @@ If you're looking for a **backend developer** or a full-stack engineer to bring 
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical)
-## 🐍 GitHub Contribution Snake
-![GitHub Snake dark](https://github.com/codetesla51/codetesla51/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/codetesla51/codetesla51/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-1
