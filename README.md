@@ -67,15 +67,19 @@ If you're looking for a **backend developer** or a full-stack engineer to bring 
 ---
 
 ### 🔥 Latest Projects:
+
+#### [BaitBox](https://github.com/codetesla51/web-scraper) 
+> **Description:** Bait Box is a PHP-based phishing script designed for educational purposes. This script enables users to create phishing templates, manage tunneling with Serveo, and customize their own forms. 
+
 #### [Web Scraper Script](https://github.com/codetesla51/web-scraper) 
-> **Description:** A web scraping solution that avoids getting blocked by using proxy rotation and user agent rotation.
+>> **Description:** A web scraping solution that avoids getting blocked by using proxy rotation and user agent rotation.
 
 
 #### [ValutX](https://github.com/codetesla51/vaultx)
-> **Description:** A secure vault application to manage and encrypt sensitive information using PHP.
+>>> **Description:** A secure vault application to manage and encrypt sensitive information using PHP.
 
 #### [Harvester](https://github.com/codetesla51/harvester-)
-> **Description:** A web scraping tool to extract, organize, and download data from websites in structured formats.  
+>>>> **Description:** A web scraping tool to extract, organize, and download data from websites in structured formats.  
 
 ---
 
