@@ -13,9 +13,9 @@
   </div>
   <br>
   <div>  
-    Hey! I’m **Uthman Dev** 👨‍💻, a full-stack developer who enjoys tackling backend challenges. I love working with **PHP** 🐘, **MySQL** 🐬, and **JavaScript** ⚙️ to solve real problems. Building stuff from scratch or improving existing code is where I shine! ✨
+    Hey! I’m <b>Uthman Dev</b> 👨‍💻, a full-stack developer who enjoys tackling backend challenges. I love working with <b>PHP</b> 🐘, <b>MySQL</b> 🐬, and <b>JavaScript</b> ⚙️ to solve real problems. Building stuff from scratch or improving existing code is where I shine! ✨
 
-<p>I help build digital brands and elevate online presence 🌐. I can build websites like this one: <a href="https://uthmadev.vercel.app" style="color: #008afa; text-decoration: underline;">uthmadev.vercel.app</a> or create tools like <strong>VaultX</strong>. Check out the repo here: <a href="https://github.com/codetesla51/vaultx" style="color: #008afa; text-decoration: underline;">VaultX Repository</a>.</p>
+<p>I help build digital brands and elevate online presence 🌐. I can build websites like this one: <a href="https://uthmandev.vercel.app" style="color: #008afa; text-decoration: none;">uthmadev.vercel.app</a> or create tools like <strong>VaultX</strong>. Check out the repo here: <a href="https://github.com/codetesla51/vaultx" style="color: #008afa; text-decoration: underline;">VaultX Repository</a>.</p>
 
 <p>I’m into <strong>Svelte</strong> 🌱 because I enjoy making user interfaces that are both fun and easy to use. I stay updated with new tools like <strong>Tailwind CSS</strong> 🎨 and <strong>Alpine.js</strong> ❄️ to keep my work lively and efficient. Let’s collaborate and create something amazing together! 🚀</p>
 
