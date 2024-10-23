@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Uthman Dev!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=6500&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
 
 ---
 
