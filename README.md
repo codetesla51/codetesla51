@@ -12,10 +12,13 @@
     <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9523h12jzbpazg3ac32ccr2qppjlfzn1w4qpaecfof0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Typing on Keyboard" width="450px" />
   </div>
   <br>
-  <div>
-<h5>    👋 Hi there! I’m  <b>Uthman Dev</b>, a full-stack developer specializing in backend technologies. I thrive on solving complex problems using <strong>PHP</strong>, <strong>MySQL</strong>, and <strong>JavaScript</strong>. 🛠️
-  ✨ I love taking on new challenges, whether it’s building applications from the ground up or enhancing existing codebases. My goal is to deliver efficient, scalable, and impactful solutions that make a difference!</p> <p>🌟 I’m also diving into frontend frameworks like <strong>Vue.js</strong> and <strong>Svelte</strong>, constantly exploring ways to create interactive and user-friendly interfaces. I keep my toolkit sharp with the latest technologies like <strong>Tailwind CSS</strong> and <strong>Alpine.js</strong> to make my workflow smoother and more enjoyable. Let’s embark on an exciting journey and build something amazing together! 🚀
-</h5>
+  <div>  
+    Hey! I’m **Uthman Dev** 👨‍💻, a full-stack developer who enjoys tackling backend challenges. I love working with **PHP** 🐘, **MySQL** 🐬, and **JavaScript** ⚙️ to solve real problems. Building stuff from scratch or improving existing code is where I shine! ✨
+
+<p>I help build digital brands and elevate online presence 🌐. I can build websites like this one: <a href="https://uthmadev.vercel.app" style="color: #008afa; text-decoration: underline;">uthmadev.vercel.app</a> or create tools like <strong>VaultX</strong>. Check out the repo here: <a href="https://github.com/codetesla51/vaultx" style="color: #008afa; text-decoration: underline;">VaultX Repository</a>.</p>
+
+<p>I’m into <strong>Svelte</strong> 🌱 because I enjoy making user interfaces that are both fun and easy to use. I stay updated with new tools like <strong>Tailwind CSS</strong> 🎨 and <strong>Alpine.js</strong> ❄️ to keep my work lively and efficient. Let’s collaborate and create something amazing together! 🚀</p>
+
 </div>
 </div>
 
