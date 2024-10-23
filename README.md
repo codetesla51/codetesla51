@@ -4,16 +4,19 @@
 
 ---
 
+
 ## 📚 **About Me**:
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 20px;">
     <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9523h12jzbpazg3ac32ccr2qppjlfzn1w4qpaecfof0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Typing on Keyboard" width="450px" />
   </div>
+  <br>
   <div>
-    <p>I'm a full-stack developer specializing in backend technologies. I enjoy solving complex problems using <strong>PHP, MySQL</strong>, and <strong>JavaScript</strong>. I am passionate about contributing to open-source projects and making life easier for other developers. Whether building from scratch or improving existing code, I focus on delivering efficient, scalable, and impactful solutions.</p>
-    <p>I’m particularly interested in frontend frameworks like <strong>Vue.js</strong> and <strong>Svelte</strong>, always looking to create interactive and user-friendly interfaces. I keep up with the latest technologies like <strong>Tailwind CSS</strong> and <strong>Alpine.js</strong> to streamline my workflow. Let's build something amazing together!</p>
-  </div>
+<h5>    👋 Hi there! I’m  <b>Uthman Dev</b>, a full-stack developer specializing in backend technologies. I thrive on solving complex problems using <strong>PHP</strong>, <strong>MySQL</strong>, and <strong>JavaScript</strong>. 🛠️
+  ✨ I love taking on new challenges, whether it’s building applications from the ground up or enhancing existing codebases. My goal is to deliver efficient, scalable, and impactful solutions that make a difference!</p> <p>🌟 I’m also diving into frontend frameworks like <strong>Vue.js</strong> and <strong>Svelte</strong>, constantly exploring ways to create interactive and user-friendly interfaces. I keep my toolkit sharp with the latest technologies like <strong>Tailwind CSS</strong> and <strong>Alpine.js</strong> to make my workflow smoother and more enjoyable. Let’s embark on an exciting journey and build something amazing together! 🚀
+</h5>
+</div>
 </div>
 
 ---
@@ -24,8 +27,7 @@
 |--------------------------------|----------------------------------------------------|--------------------------------------------------|----------------------------------------------|
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  | ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) | ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |  |
-
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -48,8 +50,10 @@
 | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089196350154) | [Facebook Profile](https://www.facebook.com/profile.php?id=100089196350154) |
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6jqex1) | [WhatsApp](https://wa.link/6jqex1) |
 
-
 ---
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=codetesla51&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=codetesla51&theme=radical&no-frame=true&title=MultiPullRequest,Commits,Issues,PullRequest)
