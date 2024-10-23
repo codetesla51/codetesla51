@@ -23,7 +23,7 @@
 
 ---
 
-### 🔧 **Tech Stack:**
+### 🔧 **MY Tech Stack:**
 
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  |
 |--------------------------------|----------------------------------------------------|--------------------------------------------------|----------------------------------------------|
@@ -31,8 +31,7 @@
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
-
-## 💼 **Projects**:
+ ## 💼 ** MY Projects**:
 
 | **Project Name**                                                                                      | **Description**                                                                                          | **Repository**                           |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
@@ -42,7 +41,9 @@
 | **LyricLens**                                                                                          | A PHP script that allows users to search for music by providing descriptions, lyrics, or frequently used words in a song. It integrates with the Spotify API to fetch song previews and other details, as well as the Genius API to display full lyrics URLs. Backend logic using raw PHP OOP is functional. | [GitHub Repo](https://github.com/codetesla51/lyriclens.git) |
 | **Anti-Brute Force Login Form**                                                                        | This project implements an anti-brute force login mechanism using PHP. The system tracks the number of failed login attempts from each IP address and blocks the IP after a certain threshold is reached. | [GitHub Repo](https://github.com/codetesla51/anti-brute-force-login.git) |
 | **Web-IP**                                                                                             | A simple PHP-based command-line tool that retrieves the IP address and geolocation of a website based on its URL. The tool also saves this information to a text file (web-info.txt), creating the file if it doesn't already exist. | [GitHub Repo](https://github.com/codetesla51/web-ip.git) |
-| **BaitBox**                                                                                            | A PHP-based phishing script designed for educational purposes. This script enables users to create phishing templates, manage tunneling with Serveo, and customize their own forms. | [Check Out BaitBox](https://github.com/codetesla51/web-scraper) |
+| **Web Scraping with Proxy and User-Agent Rotation**                                                    | This PHP script provides a simple web scraping solution with features such as proxy rotation and user-agent rotation. It allows you to scrape multiple web pages while avoiding detection through IP blocking or user-agent filtering. The scraped HTML content is saved locally, and the scraper also has a recursive feature for internal links. | [GitHub Repo](https://github.com/codetesla51/web_scrapper_script.git) |
+
+
 
 ---
 
