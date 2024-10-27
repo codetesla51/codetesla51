@@ -61,6 +61,4 @@
 
 ## 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=codetesla51&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=codetesla51&theme=radical&no-frame=true&title=MultiPullRequest,Commits,Issues,PullRequest)
+
