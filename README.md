@@ -25,8 +25,6 @@
 
 ### 🔧 **Tech Stack:**
 
-### 🔧 **Tech Stack:**
-
 | ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=4F5B93&style=flat-square&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat-square&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat-square&logo=typescript&logoColor=white) | ![SCSS](https://img.shields.io/static/v1?label=&message=SCSS&color=CC6699&style=flat-square&logo=sass&logoColor=white) |
 |----------------|--------------------|--------------------|--------------------|
 | ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=flat-square&logo=mysql&logoColor=white) | ![REST API](https://img.shields.io/static/v1?label=&message=REST%20API&color=02569B&style=flat-square&logo=swagger&logoColor=white) | ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&style=flat-square&logo=laravel&logoColor=white) | ![SvelteKit](https://img.shields.io/static/v1?label=&message=SvelteKit&color=FF3E00&style=flat-square&logo=svelte&logoColor=white) |
