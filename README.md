@@ -62,4 +62,4 @@
 
 ## 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true&v=1)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical&count_private=true)
