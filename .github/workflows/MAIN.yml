@@ -11,7 +11,7 @@ jobs:
 
     steps:
       # Step 1: Check out the repository
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # Latest version supporting Node.js 20
 
       # Step 2: Generate the snake contribution graph
       - uses: Platane/snk@master
@@ -21,9 +21,9 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 3: Commit and push changes
+      # Step 3: Commit and Push changes
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5  # Updated version
         with:
           commit_message: "chore: update snake contribution graph"
           branch: main
