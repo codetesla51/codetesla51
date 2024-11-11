@@ -20,13 +20,21 @@ interfaces that are both fun and easy to use. I stay updated with new tools like
 Let’s collaborate and create something amazing together! 🚀</p>
 
 ---
-### 🔧 **Tech Stack:**
+### 🔧 **Tech Stack & Tools:**
+
+i use a variety of tools and technologies to build robust and scalable
+applications. Below is a list of the key technologies and tools i work with:
 
 |                           |                           |                           |                           |                           |                           |                           |
 |---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) | [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) | [![Svelte](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev) |
 | [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | [![Vue.js](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![Alpine.js](https://skillicons.dev/icons?i=alpinejs)](https://skillicons.dev) | [![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev) | [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) | [![Dev.to](https://skillicons.dev/icons?i=devto)](https://skillicons.dev) |
 | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![SASS](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) |                           |                           |                           |                           |
+
+<p>These technologies allow me to create fast, efficient, and highly
+maintainable applications, tailored to meet the needs of modern web
+development.</p>
+
 ---
  ## 💼 **Projects**:
 
