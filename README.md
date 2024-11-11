@@ -1,23 +1,23 @@
-# 👋 Hey, I'm Uthman Dev!
+<div align="center">
+  <h1 style="color: #008afa;">👋 Hey, I'm Uthman Dev!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=6500&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
-
-## 📚 **About Me**:
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 20px;">
-    <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9523h12jzbpazg3ac32ccr2qppjlfzn1w4qpaecfof0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Typing on Keyboard" width="450px" />
-  </div>
-  <br>
-  <div>  
-    Hey! I’m <b>Uthman Dev</b> 👨‍💻, a full-stack developer who enjoys tackling backend challenges. I love working with <b>PHP</b> 🐘, <b>MySQL</b> 🐬, and <b>JavaScript</b> ⚙️ to solve real problems. Building stuff from scratch or improving existing code is where I shine! ✨
-
-<p>I help build digital brands and elevate online presence 🌐. I can build websites like this one: <a href="https://uthmandev.vercel.app" style="color: #008afa; text-decoration: none;">uthmanweb</a> or create tools like <strong>VaultX</strong>. Check out the repo here: <a href="https://github.com/codetesla51/vaultx" style="color: #008afa; text-decoration: underline;">VaultX Repository</a>.</p>
-
-<p>I’m into <strong>Svelte</strong> 🌱 because I enjoy making user interfaces that are both fun and easy to use. I stay updated with new tools like <strong>Tailwind CSS</strong> 🎨 and <strong>Alpine.js</strong> ❄️ to keep my work lively and efficient. Let’s collaborate and create something amazing together! 🚀</p>
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=6500&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
 </div>
-</div>
+
+## 📚 **About Me**
+
+![Typing on Keyboard](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9523h12jzbpazg3ac32ccr2qppjlfzn1w4qpaecfof0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+
+Hey! I’m **Uthman Dev** 👨‍💻, a full-stack developer who enjoys tackling backend challenges. I love working with **PHP** 🐘, **MySQL** 🐬, and **JavaScript** ⚙️ to solve real problems. Building stuff from scratch or improving existing code is where I shine! ✨
+
+I also work with full-stack frameworks like **Laravel** to create dynamic, high-performance web applications. Additionally, I build automation programs in **Bash** and **Python** to streamline tasks, making workflows faster and more efficient. I regularly solve **Data Structures and Algorithms (DSA)** problems to keep my problem-solving skills sharp.
+
+I help build digital brands and elevate online presence 🌐. I can build websites like [uthmanweb](https://uthmandev.vercel.app) or create tools like **VaultX**. Check out the repo here: [VaultX Repository](https://github.com/codetesla51/vaultx).
+
+<p> I’m also passionate about <b>Svelte</b> 🌱 because I enjoy creating user
+interfaces that are both fun and easy to use. I stay updated with new tools like
+<b>Tailwind CSS</b> 🎨 and <b>Alpine.js</b> ❄️ to keep my work lively and efficient.
+Let’s collaborate and create something amazing together! 🚀</p>
 
 ---
 ### 🔧 **Tech Stack:**
