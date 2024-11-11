@@ -22,13 +22,13 @@ Let’s collaborate and create something amazing together! 🚀</p>
 ---
 ### 🔧 **Tech Stack:**
 
-|                          |                          |                          |                          |
-|--------------------------|--------------------------|--------------------------|--------------------------|
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![SCSS](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) |
+|                           |                           |                           |                           |
+|---------------------------|---------------------------|---------------------------|---------------------------|
 | [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) | [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
-| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) | [![Svelte](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev) | [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) |
+| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  | [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)  | [![Svelte](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev) | [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) |
 | [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | [![Vue.js](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![Alpine.js](https://skillicons.dev/icons?i=alpinejs)](https://skillicons.dev) | [![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev) |
-| [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) | [![Dev.to](https://skillicons.dev/icons?i=devto)](https://skillicons.dev) |                          |                          |
+| [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) | [![Dev.to](https://skillicons.dev/icons?i=devto)](https://skillicons.dev) | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) |
+|                           |                           | [![SASS](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) |                           |
 ---
  ## 💼 **Projects**:
 
