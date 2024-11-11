@@ -39,6 +39,7 @@ development.</p>
 
 
 ## 💼 **My Recent Projects**:
+Here are some of my recent projects that showcase my proficiency in technologies like PHP, JavaScript, Laravel, and Python, along with my ability to solve real-world problems.
 
 | **Project Name**                                                                                      | **Description**                                                                                          | **Repository**                           |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
