@@ -35,37 +35,34 @@ applications. Below is a list of the key technologies and tools i work with:
 maintainable applications, tailored to meet the needs of modern web
 development.</p>
 
----
- ## 💼 **Projects**:
+----------------
+
+
+## 💼 **My Recent Projects**:
 
 | **Project Name**                                                                                      | **Description**                                                                                          | **Repository**                           |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **UD-Cipher**                                                                                             |  UD-Cipher is a lightweight PHP and JavaScript library for encoding and decoding text using customizable symbol mappings, noise symbols, and a Caesar cipher variant. This mini encoding library provides an easy way to obfuscate text, making it suitable for various applications where text privacy is a concern.| [GitHub Repo](https://github.com/codetesla51/ud-cipher) |
-| **VaultX**                                                                                             | A secure file encryption and decryption platform built with Laravel and Axios. VaultX utilizes AES 256 encryption to ensure files remain protected. Users can encrypt files, share them securely (even with non-registered users), and decrypt them when needed. The system handles files carefully, leaving no traces after decryption. | [GitHub Repo](https://github.com/codetesla51/vaultx.git) |
-| **Harvester**                                                                                          | A PHP-based CLI tool that fetches website content, including HTML, images, CSS, and JavaScript files, and saves them in a ZIP file. Version 2.0 is coming soon, with improved features and better archiving capabilities. | [GitHub Repo](https://github.com/codetesla51/harvester-.git) |
-| **Repo-Crawler**                                                                                       | A web-based tool that fetches essential information about GitHub repositories. It allows users to search for repositories by keyword and retrieve details like the repository name, star count, description, and the owner's username. Version 2 is also coming soon with more features! | [GitHub Repo](https://github.com/codetesla51/repo_crawler) \| [Live Demo](https://repo-crawler.vercel.app/) |
-| **LyricLens**                                                                                          | A PHP script that allows users to search for music by providing descriptions, lyrics, or frequently used words in a song. It integrates with the Spotify API to fetch song previews and other details, as well as the Genius API to display full lyrics URLs. Backend logic using raw PHP OOP is functional. | [GitHub Repo](https://github.com/codetesla51/lyriclens.git) |
-| **Anti-Brute Force Login Form**                                                                        | This project implements an anti-brute force login mechanism using PHP. The system tracks the number of failed login attempts from each IP address and blocks the IP after a certain threshold is reached. | [GitHub Repo](https://github.com/codetesla51/anti-brute-force-login.git) |
-| **Web-IP**                                                                                             | A simple PHP-based command-line tool that retrieves the IP address and geolocation of a website based on its URL. The tool also saves this information to a text file (web-info.txt), creating the file if it doesn't already exist. | [GitHub Repo](https://github.com/codetesla51/web-ip.git) |
-| **Web Scraping with Proxy and User-Agent Rotation**                                                    | This PHP script provides a simple web scraping solution with features such as proxy rotation and user-agent rotation. It allows you to scrape multiple web pages while avoiding detection through IP blocking or user-agent filtering. The scraped HTML content is saved locally, and the scraper also has a recursive feature for internal links. | [GitHub Repo](https://github.com/codetesla51/web_scrapper_script.git) |
-
+| **UD-Cipher**                                                                                             | UD-Cipher is a lightweight PHP and JavaScript library for encoding and decoding text using customizable symbol mappings, noise symbols, and a Caesar cipher variant. Ideal for obfuscating text where privacy is a concern. | [GitHub Repo](https://github.com/codetesla51/ud-cipher) |
+| **VaultX**                                                                                             | A secure file encryption and decryption platform built with Laravel and Axios. Utilizes AES 256 encryption to protect files, with features for sharing and decrypting without leaving traces. | [GitHub Repo](https://github.com/codetesla51/vaultx.git) |
+| **Harvester**                                                                                          | A PHP-based CLI tool to fetch website content (HTML, images, CSS, JS) and save it as a ZIP file. Version 2.0 coming soon with improved archiving capabilities. | [GitHub Repo](https://github.com/codetesla51/harvester-.git) |
+| **Repo-Crawler**                                                                                       | A web-based tool to fetch essential GitHub repository data like name, star count, description, and owner. Search repositories by keyword. | [GitHub Repo](https://github.com/codetesla51/repo_crawler) \| [Live Demo](https://repo-crawler.vercel.app/) |
+| **LyricLens**                                                                                          | A PHP script for searching music by descriptions, lyrics, or keywords. Integrates with Spotify API for previews and Genius API for full lyrics. | [GitHub Repo](https://github.com/codetesla51/lyriclens.git) |
+| **Anti-Brute Force Login Form**                                                                        | Implements an anti-brute force login system using PHP. Tracks failed login attempts and blocks IPs after a threshold. | [GitHub Repo](https://github.com/codetesla51/anti-brute-force-login.git) |
+| **Web-IP**                                                                                             | A PHP CLI tool that retrieves a website's IP address and geolocation based on its URL, and saves the info to a text file. | [GitHub Repo](https://github.com/codetesla51/web-ip.git) |
+| **Web Scraping with Proxy and User-Agent Rotation**                                                    | A PHP script for web scraping with proxy and user-agent rotation to avoid detection. Supports scraping multiple pages and recursive scraping. | [GitHub Repo](https://github.com/codetesla51/web_scrapper_script.git) |
 
 
 ---
+## 🚀 **Let's Connect and Chat!**:
 
-## 📬 **Lets Connect**:
-| **Platform** | **Link** |
-|--------------|----------|
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codetesla51) | [@codetesla51](https://github.com/codetesla51) |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthman-dev-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [LinkedIn Profile](https://www.linkedin.com/in/uthman-dev-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09) | [Twitter Profile](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09) |
-| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089196350154) | [Facebook Profile](https://www.facebook.com/profile.php?id=100089196350154) |
-| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6jqex1) | [WhatsApp](https://wa.link/6jqex1) |
-
+| **Platform** | **Link** | **Platform** | **Link** |
+|--------------|----------|--------------|----------|
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codetesla51) | [@codetesla51](https://github.com/codetesla51) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthman-dev-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [LinkedIn Profile](https://www.linkedin.com/in/uthman-dev-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09) | [Twitter Profile](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089196350154) | [Facebook Profile](https://www.facebook.com/profile.php?id=100089196350154) |
+| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6jqex1) | [WhatsApp](https://wa.link/6jqex1) | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/username) | [Dev.to Profile](https://dev.to/username) |
 ---
 
 ## 📊 GitHub Stats:
-![snake gif](https://github.com/codetesla51/codetesla51/blob/output/github-contribution-grid-snake.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true&v=1)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical&count_private=true)
