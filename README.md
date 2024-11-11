@@ -62,8 +62,13 @@ development.</p>
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6jqex1) | [WhatsApp](https://wa.link/6jqex1) | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/username) | [Dev.to Profile](https://dev.to/username) |
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats and Activity**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true&v=1)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical&count_private=true)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true&v=1) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical&count_private=true) |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 
+| ![GitHub Streak](https://streak-stats.demolab.com?user=codetesla51&theme=radical&hide_border=true) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codetesla51&theme=radical&hide_border=true) |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+
+## 🤝 **Let's Work Together!**
+I'm always open to collaborating on new and exciting projects. If you're interested in working together or building something impactful, don't hesitate to reach out. Let's connect and bring ideas to life!
