@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=6500&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
 
----
-
 ## 📚 **About Me**:
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -22,14 +20,14 @@
 </div>
 
 ---
-
 ### 🔧 **Tech Stack:**
 
 | ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=4F5B93&style=flat-square&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat-square&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat-square&logo=typescript&logoColor=white) | ![SCSS](https://img.shields.io/static/v1?label=&message=SCSS&color=CC6699&style=flat-square&logo=sass&logoColor=white) |
 |----------------|--------------------|--------------------|--------------------|
 | ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=flat-square&logo=mysql&logoColor=white) | ![REST API](https://img.shields.io/static/v1?label=&message=REST%20API&color=02569B&style=flat-square&logo=swagger&logoColor=white) | ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&style=flat-square&logo=laravel&logoColor=white) | ![SvelteKit](https://img.shields.io/static/v1?label=&message=SvelteKit&color=FF3E00&style=flat-square&logo=svelte&logoColor=white) |
-| ![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=flat-square&logo=jquery&logoColor=white) | ![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38B2AC&style=flat-square&logo=tailwind-css&logoColor=white) | ![Axios](https://img.shields.io/static/v1?label=&message=Axios&color=5A29E4&style=flat-square&logo=axios&logoColor=white) | ![Three.js](https://img.shields.io/static/v1?label=&message=Three.js&color=000000&style=flat-square&logo=three.js&logoColor=white) |
-| ![Livewire](https://img.shields.io/static/v1?label=&message=Livewire&color=4E56A6&style=flat-square&logo=livewire&logoColor=white) | ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=563D7C&style=flat-square&logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat-square&logo=git&logoColor=white) | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat-square&logo=python&logoColor=white) |
+| ![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&style=flat-square&logo=svelte&logoColor=white) | ![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38B2AC&style=flat-square&logo=tailwind-css&logoColor=white) | ![Axios](https://img.shields.io/static/v1?label=&message=Axios&color=5A29E4&style=flat-square&logo=axios&logoColor=white) | ![Three.js](https://img.shields.io/static/v1?label=&message=Three.js&color=000000&style=flat-square&logo=three.js&logoColor=white) |
+| ![Livewire](https://img.shields.io/static/v1?label=&message=Livewire&color=4E56A6&style=flat-square&logo=livewire&logoColor=white) | ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=563D7C&style=flat-square&logo=bootstrap&logoColor=white) | ![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&style=flat-square&logo=gnu-bash&logoColor=white) | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat-square&logo=python&logoColor=white) |
+| ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat-square&logo=git&logoColor=white) | |
 
 ---
  ## 💼 **Projects**:
