@@ -22,13 +22,13 @@ Let’s collaborate and create something amazing together! 🚀</p>
 ---
 ### 🔧 **Tech Stack:**
 
-| ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=4F5B93&style=flat-square&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat-square&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat-square&logo=typescript&logoColor=white) | ![SCSS](https://img.shields.io/static/v1?label=&message=SCSS&color=CC6699&style=flat-square&logo=sass&logoColor=white) |
-|----------------|--------------------|--------------------|--------------------|
-| ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=flat-square&logo=mysql&logoColor=white) | ![REST API](https://img.shields.io/static/v1?label=&message=REST%20API&color=02569B&style=flat-square&logo=swagger&logoColor=white) | ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&style=flat-square&logo=laravel&logoColor=white) | ![SvelteKit](https://img.shields.io/static/v1?label=&message=SvelteKit&color=FF3E00&style=flat-square&logo=svelte&logoColor=white) |
-| ![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&style=flat-square&logo=svelte&logoColor=white) | ![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38B2AC&style=flat-square&logo=tailwind-css&logoColor=white) | ![Axios](https://img.shields.io/static/v1?label=&message=Axios&color=5A29E4&style=flat-square&logo=axios&logoColor=white) | ![Three.js](https://img.shields.io/static/v1?label=&message=Three.js&color=000000&style=flat-square&logo=three.js&logoColor=white) |
-| ![Livewire](https://img.shields.io/static/v1?label=&message=Livewire&color=4E56A6&style=flat-square&logo=livewire&logoColor=white) | ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=563D7C&style=flat-square&logo=bootstrap&logoColor=white) | ![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&style=flat-square&logo=gnu-bash&logoColor=white) | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat-square&logo=python&logoColor=white) |
-| ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat-square&logo=git&logoColor=white) | |
-
+|                          |                          |                          |                          |
+|--------------------------|--------------------------|--------------------------|--------------------------|
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![SCSS](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) |
+| [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) | [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
+| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) | [![Svelte](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev) | [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) |
+| [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | [![Vue.js](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![Alpine.js](https://skillicons.dev/icons?i=alpinejs)](https://skillicons.dev) | [![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev) |
+| [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) | [![Dev.to](https://skillicons.dev/icons?i=devto)](https://skillicons.dev) |                          |                          |
 ---
  ## 💼 **Projects**:
 
