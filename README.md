@@ -1,7 +1,38 @@
 <div align="center">
   <h1 style="color: #008afa;">👋 Hey, I'm Uthman Dev!</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=6500&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=6500&color=008afa&lines=Full+Stack+Developer;Backend+Specialist;Let's+Build+Something+Great!" alt="Typing SVG">
+  </a>
+
+  <p>
+    <a href="https://github.com/codetesla51">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://github.com/codetesla51"> @codetesla51 </a> |
+    <a href="https://www.linkedin.com/in/oladele-usman-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.linkedin.com/in/oladele-usman-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
+  </p>
+  
+  <p>
+    <a href="https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09">
+      <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+    </a>
+    <a href="https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09"></a> |
+    <a href="https://wa.link/6jqex1">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    <a href="https://wa.link/6jqex1"> WhatsApp </a>
+  </p>
+  
+  <p>
+    <a href="https://www.facebook.com/profile.php?id=100089196350154">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100089196350154">  </a>
+  </p>
 </div>
 
 ## 📚 **About Me**
@@ -51,17 +82,6 @@ Here are some of my recent projects that showcase my proficiency in technologies
 | **Anti-Brute Force Login Form**                                                                        | Implements an anti-brute force login system using PHP. Tracks failed login attempts and blocks IPs after a threshold. | [GitHub Repo](https://github.com/codetesla51/anti-brute-force-login.git) |
 | **Web-IP**                                                                                             | A PHP CLI tool that retrieves a website's IP address and geolocation based on its URL, and saves the info to a text file. | [GitHub Repo](https://github.com/codetesla51/web-ip.git) |
 | **Web Scraping with Proxy and User-Agent Rotation**                                                    | A PHP script for web scraping with proxy and user-agent rotation to avoid detection. Supports scraping multiple pages and recursive scraping. | [GitHub Repo](https://github.com/codetesla51/web_scrapper_script.git) |
-
-
----
-## 🚀 **Let's Connect and Chat!**:
-
-| **Platform** | **Link** | **Platform** | **Link** |
-|--------------|----------|--------------|----------|
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codetesla51) | [@codetesla51](https://github.com/codetesla51) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthman-dev-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [LinkedIn Profile](https://www.linkedin.com/in/uthman-dev-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09) | [Twitter Profile](https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089196350154) | [Facebook Profile](https://www.facebook.com/profile.php?id=100089196350154) |
-| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6jqex1) | [WhatsApp](https://wa.link/6jqex1) | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/username) | [Dev.to Profile](https://dev.to/username) |
----
 
 ## 📊 **GitHub Stats and Activity**
 
