@@ -1,7 +1,9 @@
 <div align="center">
   <h1 style="color: #008afa;">👋 Hey, I'm Uthman Dev!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=500&lines=Full-stack+web+developer+;Laravel+enthusiast+;Php+python+bash+;Let's+Code+together+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img
+src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=500&lines=I am a Full-stack+web+developer+;Laravel+enthusiast+;Php+python+bash+;Let's+Code+together+"
+alt="Typing SVG" /></a>
   <p>
     <a href="https://github.com/codetesla51">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
