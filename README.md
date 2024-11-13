@@ -9,7 +9,7 @@
     <a href="https://github.com/codetesla51">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://github.com/codetesla51"> @codetesla51 </a> |
+    <a href="https://github.com/codetesla51"> </a> 
     <a href="https://www.linkedin.com/in/oladele-usman-a61578298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -20,11 +20,11 @@
     <a href="https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09">
       <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
     </a>
-    <a href="https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09"></a> |
+    <a href="https://x.com/oladele56481?t=KIfYsIyRIobDWhMnYTYTfA&s=09"></a>
     <a href="https://wa.link/6jqex1">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
-    <a href="https://wa.link/6jqex1"> WhatsApp </a>
+    <a href="https://wa.link/6jqex1">  </a>
   </p>
   
   <p>
