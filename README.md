@@ -42,7 +42,7 @@ Hey! I’m **Uthman Dev** 👨‍💻, a full-stack developer who enjoys tacklin
 
 I also work with full-stack frameworks like **Laravel** to create dynamic, high-performance web applications. Additionally, I build automation programs in **Bash** and **Python** to streamline tasks, making workflows faster and more efficient. I regularly solve **Data Structures and Algorithms (DSA)** problems to keep my problem-solving skills sharp.
 
-I help build digital brands and elevate online presence 🌐. I can build websites like [uthmanweb](https://uthmandev.vercel.app) or create tools like **VaultX**. Check out the repo here: [VaultX Repository](https://github.com/codetesla51/vaultx).
+I help build digital brands and elevate online presence 🌐. I can build websites like [uthmanweb](https://dev-uthman.vercel.app) or create tools like **VaultX**. Check out the repo here: [VaultX Repository](https://github.com/codetesla51/vaultx).
 
 <p> I’m also passionate about <b>Svelte</b> 🌱 because I enjoy creating user
 interfaces that are both fun and easy to use. I stay updated with new tools like
