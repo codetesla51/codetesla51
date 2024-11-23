@@ -84,11 +84,6 @@ Here are some of my recent projects that showcase my proficiency in technologies
 
 ## 📊 **GitHub Stats and Activity**
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=radical&count_private=true&v=1) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=radical&count_private=true) |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-
-| ![GitHub Streak](https://streak-stats.demolab.com?user=codetesla51&theme=radical&hide_border=true) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codetesla51&theme=radical&hide_border=true) |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-
-## 🤝 **Let's Work Together!**
-I'm always open to collaborating on new and exciting projects. If you're interested in working together or building something impactful, don't hesitate to reach out. Let's connect and bring ideas to life!
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&hide_progress=true&theme=github_dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=github_dark&count_private=true) |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=codetesla51&theme=github_dark&hide_border=true)                                                                                           |
