@@ -2,7 +2,7 @@
   <h1>👋 Hey, I'm Uthman Dev!</h1>
 
   <a href="https://git.io/typing-svg"><img
-  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=FAFAFA00&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineering+Specialist;Software+Architecture+Designer;Laravel+%26+Golang+Expert;API+Development+Professional"
+  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=193549&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineer;Laravel+Developer;Golang+Developer"
   alt="Typing SVG" /></a>
   
   <p>
@@ -87,8 +87,8 @@ Check out my portfolio at [devuthman.vercel.app](https://devuthman.vercel.app/) 
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
@@ -107,8 +107,8 @@ Check out my portfolio at [devuthman.vercel.app](https://devuthman.vercel.app/) 
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
     </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ Check out my portfolio at [devuthman.vercel.app](https://devuthman.vercel.app/) 
 I'm always interested in collaborating on innovative projects or discussing technology. Feel free to reach out through any of the platforms linked above or visit my [portfolio](https://devuthman.vercel.app/) to learn more about my work.
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codetesla51&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
