@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
   <h1>👋 Hey, I'm Uthman Dev!</h1>
 
   <a href="https://git.io/typing-svg"><img
-  src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineer;DevOps+Enthusiast;Laravel+%26+Golang+Expert"
+  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=FAFAFA00&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineering+Specialist;Software+Architecture+Designer;Laravel+%26+Golang+Expert;API+Development+Professional"
   alt="Typing SVG" /></a>
   
   <p>
