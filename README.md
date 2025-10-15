@@ -1,48 +1,163 @@
-# Hey, I'm Uthman
+# Uthman Oladele
 
-**Backend Engineer** building systems from first principles in **Go** | Exploring compilers, parsers, and distributed systems
+Backend Engineer building systems from first principles in Go | Exploring compilers, parsers, and distributed systems
 
-> "Simple solutions over clever complexity. Sophistication comes from clarity, not convolution."
+> "Understanding comes from building it yourself. Frameworks are tools, but knowing what's underneath makes you dangerous."
 
 ```go
-type Developer struct {
-    Name        string
-    Focus       []string
-    CurrentlyLearning string
-    BuildingOn  string
+type Engineer struct {
+    Name              string
+    Expertise         []string
+    CurrentFocus      string
+    LearningApproach  string
 }
 
-me := Developer{
-    Name:        "Uthman",
-    Focus:       []string{"Backend Systems", "Language Design", "CLI Tools"},
-    CurrentlyLearning: "Building Git from scratch",
+me := Engineer{
+    Name:              "Uthman",
+    Expertise:         []string{"Systems Programming", "Network Protocols", "Language Design"},
+    CurrentFocus:      "Building Git from scratch",
+    LearningApproach:  "First principles - no shortcuts",
 }
 ```
 
 ---
 
-## What I Build
+## Philosophy
 
-**Systems Programming**
-- Built HTTP server from TCP sockets (no frameworks)
-- Real-time chat server with concurrency and TLS encryption
-- Mathematical engine with AST parser and 95% test coverage
-- 2FA authentication library for PHP applications
-- Lexical analyzer for custom language
+I don't just use frameworks - I understand what they're abstracting. Whether it's building an HTTP server from raw TCP sockets or implementing Git's internals, I learn by reconstructing systems from the ground up. This approach has taught me more about performance optimization, protocol design, and distributed systems than any course could.
 
-**Current Project:** Mini-Git implementation in Go - understanding version control from the ground up
+My approach is stoic: **focus on what I can control.** I can't control market trends or what's popular. I can control the quality of my code, the depth of my understanding, and the consistency of my effort. Everything else is noise.
+
+---
+
+## What I've Built
+
+### GO-CHAT - Concurrent Terminal Chat Server
+Real-time messaging system with TLS encryption, AI integration, and rate limiting. Handles 100+ concurrent connections with goroutines.
+
+**Key challenges solved:**
+- Concurrent connection management with proper cleanup
+- Real-time message broadcasting across lobbies
+- AI assistant with conversation context
+- Rate limiting and abuse prevention
+
+**Performance:** Tested with 100+ simultaneous users, ~50MB baseline memory, minimal CPU under load.
+
+[View Project →](https://github.com/codetesla51/go-chat-server)
+
+---
+
+### Raw-HTTP - HTTP Server From TCP Sockets
+No frameworks. Just sockets, the HTTP spec, and Go. Built to understand networking at the protocol level.
+
+**Performance journey:**
+- Started at 250 RPS (buggy)
+- Fixed connection handling: 1,389 RPS
+- Added keep-alive optimization: 1,710 RPS
+- Peak performance: 4,000 RPS
+- **16x improvement from initial version**
+
+**What this taught me:** Connection pooling, HTTP/1.1 keep-alive, goroutine management, and how low-level implementation details impact throughput.
+
+[View Project →](https://github.com/codetesla51/raw-http)
+
+---
+
+### Axion - Mathematical Engine & CLI Calculator
+Production-ready calculator with AST parser, trigonometric functions, unit conversions, and persistent history.
+
+**Technical highlights:**
+- Recursive descent parser with proper operator precedence
+- AST construction and traversal
+- Edge case handling (division by zero, factorial limits, domain errors)
+- 95% test coverage
+
+**Why it matters:** Understanding how parsers work is fundamental to building compilers and interpreters. This project was my entry point into language design.
+
+[View Project →](https://github.com/codetesla51/Axion)
+
+---
+
+### GoLexer - High-Performance Lexical Analyzer
+Tokenizer for building compilers, interpreters, and DSLs. Supports Unicode identifiers, multiple number formats, and JSON-based configuration.
+
+**Features:**
+- 50+ token types
+- Single-pass tokenization with low memory allocation
+- Error recovery (detects errors while continuing)
+- Validated against 1700+ tokens
+
+**Use cases:** Compiler frontends, configuration parsers, code analysis tools.
+
+[View Project →](https://github.com/codetesla51/golexer)
+
+---
+
+### Swift2FA - Secure Two-Factor Authentication Library
+PHP library supporting authenticator apps, email, and SMS verification with built-in encryption.
+
+**Integration is dead simple:**
+```php
+use Swift2FA\Swift2FA;
+$swift2fa = new Swift2FA();
+```
+
+**Security measures:**
+- Secret key encryption before storage
+- TOTP-based code generation
+- QR code generation for easy setup
+
+[View Project →](https://github.com/codetesla51/swift2FA)
+
+---
+
+### Brevity - AI-Powered PDF Summarizer
+AI summarization tool with multiple output styles (short, detailed, objective questions, simplified explanations). Used extensively by students during exam preparation.
+
+**Technical challenges:**
+- UTF-8 encoding normalization
+- Character corruption fixes with replacement hashmaps
+- PDF text extraction and processing
+
+**Impact:** Helped coursemates study for Computer-Based Tests (CBT) by generating objective questions from study materials.
+
+**Student feedback:** "Brevity helped me through my exams, and I use it in my everyday life." - Olamide (Course Mate)
+
+[View Project →](https://ai-brevity.vercel.app)
+
+---
+
+## The Stoic Approach to Engineering
+
+I focus on what I can control:
+- The quality of my code
+- The depth of my understanding
+- The consistency of my effort
+- The problems I choose to solve
+
+Market trends, popularity, what's "hot" right now - that's all external noise. I build systems that work, understand principles that last, and let the rest take care of itself. This mindset keeps me focused on craft over hype, fundamentals over frameworks.
+
+---
+
+## Current Focus
+
+```
+Building mini-git to understand version control internals
+Exploring distributed consensus algorithms
+Extending Axion into a full programming language
+Studying systems design patterns at scale
+```
 
 ---
 
 ## Tech Stack
 
-**Languages & Tools**
+**Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Databases**
 
@@ -60,63 +175,21 @@ me := Developer{
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codetesla51&theme=tokyonight&hide_border=true)
-
 </div>
-
----
-
-## Featured Projects
-
-### [Axion](https://github.com/codetesla51/Axion) - High-Precision Math Engine
-> CLI calculator with AST parser, unit conversion, and persistent history
-- Production-ready Go implementation
-- 95% test coverage
-- Handles complex expressions, trig functions, and conversions
-
-### [GO-CHAT](https://github.com/codetesla51/go-chat-server) - Concurrent Chat Server
-> Real-time terminal chat with TLS encryption and rate limiting
-- Secure communication with TLS
-- Handles concurrent connections with goroutines
-- AI assistant integration
-
-### [Raw-HTTP](https://github.com/codetesla51/Raw-HTTP) - HTTP Server From Scratch
-> Built from TCP sockets to understand networking fundamentals
-- No frameworks - pure Go networking
-- HTTP protocol implementation from spec
-- Deep dive into how web servers actually work
-
-### [GoLexer](https://github.com/codetesla51/GoLexer) - Lexical Analyzer
-> High-performance tokenizer for language design
-- Custom tokenization engine
-- Optimized for performance
-- Foundation for building interpreters/compilers
-
----
-
-## Current Focus
-
-```
-Learning Go and diving deep into systems programming
-Building mini-git to understand version control systems
-Exploring distributed systems and consensus algorithms
-Extending Axion into a full math programming language
-Studying systems design and architecture patterns
-```
 
 ---
 
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devuthman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladele-usman-a61578298/)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uthman_dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
 
 ---
 
 <div align="center">
 
-**"Building things from first principles, one project at a time"**
+**Building things from first principles, one project at a time**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codetesla51&color=blueviolet&style=for-the-badge)
 
