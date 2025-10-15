@@ -74,7 +74,7 @@ me := Developer{
 - 95% test coverage
 - Handles complex expressions, trig functions, and conversions
 
-### [GO-CHAT](https://github.com/codetesla51/go-chat-c) - Concurrent Chat Server
+### [GO-CHAT](https://github.com/codetesla51/go-chat-server) - Concurrent Chat Server
 > Real-time terminal chat with TLS encryption and rate limiting
 - Secure communication with TLS
 - Handles concurrent connections with goroutines
