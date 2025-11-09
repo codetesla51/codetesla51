@@ -30,9 +30,7 @@ Built Git's core in Go without using any Git libraries. Content-addressable stor
 - zlib compression for all objects
 - Persistent commit history
 
-**What I learned:** How Git's object model actually works, why commits are cheap, and why tree-building order matters fundamentally.
-
-[View Project →](https://github.com/codetesla51/go-git) | [Read Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-3bnn)
+[View Project →](https://github.com/codetesla51/go-git) | [Read Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
 
 ---
 
@@ -45,8 +43,6 @@ HTTP/HTTPS server built directly on TCP. No frameworks, just sockets and the HTT
 - Added keep-alive optimization: 1,710 RPS  
 - Peak: 4,000 RPS
 - **16x improvement from initial version**
-
-**What this taught me:** Connection pooling, HTTP/1.1 keep-alive, goroutine lifecycle management, and how protocol-level decisions affect throughput.
 
 [View Project →](https://github.com/codetesla51/raw-http) | [Read Article →](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
 
@@ -80,12 +76,12 @@ Mathematical computing environment with AST parser, comparison operators, logica
 
 **Test coverage:** 95% on core modules (tokenizer, parser, evaluator, units)
 
-[View Project →](https://github.com/codetesla51/Axion)
+[View Project →](https://github.com/codetesla51/Axion) | [Read Article →](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
 ---
 
 ### GoLexer - Lexical Analyzer for Compilers
-Tokenizer library for building compilers, interpreters, and DSLs. Used as a learning project to understand compiler frontends.
+Tokenizer library for building compilers, interpreters, and DSLs.
 
 **Implementation:**
 - 50+ token types with Unicode support
@@ -125,55 +121,34 @@ PHP library for 2FA with authenticator apps, email, and SMS verification.
 
 ## Writing
 
-- [Building Git from Scratch in Go](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-3bnn)
+- [Building Git from Scratch in Go](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
 - [Building an HTTP Server from TCP Sockets: 250-4000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [Building a Terminal Calculator That Actually Does Logic - Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 - [More articles on DEV.to](https://dev.to/uthman_dev)
-
----
-
-## Currently
-
-- Building distributed systems with Go
-- Studying consensus algorithms  
-- Extending Axion's parser into a full interpreter
-- Writing about systems programming
 
 ---
 
 ## Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devuthman.vercel.app/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uthman_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://devuthman.vercel.app/)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/uthman_dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=codetesla51&color=blueviolet&style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
 
 </div>
