@@ -1,91 +1,97 @@
 # Uthman Oladele
 
-Backend Engineer building systems from first principles in Go | Exploring compilers, parsers, and distributed systems
-
-> "Understanding comes from building it yourself. Frameworks are tools, but knowing what's underneath makes you dangerous."
+Backend Developer | Systems Programming in Go
 
 ```go
 type Engineer struct {
-    Name              string
-    Expertise         []string
-    CurrentFocus      string
-    LearningApproach  string
+    Name     string
+    Focus    []string
+    Building string
 }
 
 me := Engineer{
-    Name:              "Uthman",
-    Expertise:         []string{"Systems Programming", "Network Protocols", "Language Design"},
-    CurrentFocus:      "Building Git from scratch",
-    LearningApproach:  "First principles - no shortcuts",
+    Name:     "Uthman",
+    Focus:    []string{"Systems Programming", "Network Protocols", "Compilers"},
+    Building: "HTTP servers, version control, and CLI tools from first principles",
 }
 ```
 
 ---
 
-## Philosophy
+## Projects
 
-I don't just use frameworks - I understand what they're abstracting. Whether it's building an HTTP server from raw TCP sockets or implementing Git's internals, I learn by reconstructing systems from the ground up. This approach has taught me more about performance optimization, protocol design, and distributed systems than any course could.
+### go-git - Git Implementation from Scratch
+Built Git's core in Go without using any Git libraries. Content-addressable storage, tree objects, staging area, and commit history.
 
-My approach is stoic: **focus on what I can control.** I can't control market trends or what's popular. I can control the quality of my code, the depth of my understanding, and the consistency of my effort. Everything else is noise.
+**What works:**
+- SHA-256 based object storage with automatic deduplication
+- Three-tree architecture (working dir → staging → repository)
+- Tree objects built bottom-up with proper hash dependencies
+- zlib compression for all objects
+- Persistent commit history
+
+**What I learned:** How Git's object model actually works, why commits are cheap, and why tree-building order matters fundamentally.
+
+[View Project →](https://github.com/codetesla51/go-git) | [Read Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-3bnn)
 
 ---
 
-## What I've Built
+### Raw-HTTP - HTTP Server from TCP Sockets
+HTTP/HTTPS server built directly on TCP. No frameworks, just sockets and the HTTP spec.
+
+**Performance:**
+- Started at 250 RPS (buggy implementation)
+- Fixed connection handling: 1,389 RPS
+- Added keep-alive optimization: 1,710 RPS  
+- Peak: 4,000 RPS
+- **16x improvement from initial version**
+
+**What this taught me:** Connection pooling, HTTP/1.1 keep-alive, goroutine lifecycle management, and how protocol-level decisions affect throughput.
+
+[View Project →](https://github.com/codetesla51/raw-http) | [Read Article →](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+
+---
 
 ### GO-CHAT - Concurrent Terminal Chat Server
-Real-time messaging system with TLS encryption, AI integration, and rate limiting. Handles 100+ concurrent connections with goroutines.
+Real-time messaging system handling 100+ concurrent connections. TLS encryption, AI integration, rate limiting.
 
-**Key challenges solved:**
-- Concurrent connection management with proper cleanup
+**Technical implementation:**
+- Concurrent connection management with goroutines
 - Real-time message broadcasting across lobbies
 - AI assistant with conversation context
-- Rate limiting and abuse prevention
+- Rate limiting to prevent abuse
 
-**Performance:** Tested with 100+ simultaneous users, ~50MB baseline memory, minimal CPU under load.
+**Performance:** 100+ simultaneous users, ~50MB baseline memory, minimal CPU under load.
 
 [View Project →](https://github.com/codetesla51/go-chat-server)
 
 ---
 
-### Raw-HTTP - HTTP Server From TCP Sockets
-No frameworks. Just sockets, the HTTP spec, and Go. Built to understand networking at the protocol level.
+### Axion - CLI Calculator with Logical Operations
+Mathematical computing environment with AST parser, comparison operators, logical operations, and unit conversions.
 
-**Performance journey:**
-- Started at 250 RPS (buggy)
-- Fixed connection handling: 1,389 RPS
-- Added keep-alive optimization: 1,710 RPS
-- Peak performance: 4,000 RPS
-- **16x improvement from initial version**
+**Features:**
+- Recursive descent parser with proper precedence
+- Comparison operators (>, <, >=, <=, ==, !=) returning boolean values
+- Logical operators (&&, ||) with correct precedence
+- Scientific functions (trig, log, stats)
+- Unit conversion system (length, weight, time)
+- Persistent variable storage and calculation history
 
-**What this taught me:** Connection pooling, HTTP/1.1 keep-alive, goroutine management, and how low-level implementation details impact throughput.
-
-[View Project →](https://github.com/codetesla51/raw-http)
-
----
-
-### Axion - Mathematical Engine & CLI Calculator
-Production-ready calculator with AST parser, trigonometric functions, unit conversions, and persistent history.
-
-**Technical highlights:**
-- Recursive descent parser with proper operator precedence
-- AST construction and traversal
-- Edge case handling (division by zero, factorial limits, domain errors)
-- 95% test coverage
-
-**Why it matters:** Understanding how parsers work is fundamental to building compilers and interpreters. This project was my entry point into language design.
+**Test coverage:** 95% on core modules (tokenizer, parser, evaluator, units)
 
 [View Project →](https://github.com/codetesla51/Axion)
 
 ---
 
-### GoLexer - High-Performance Lexical Analyzer
-Tokenizer for building compilers, interpreters, and DSLs. Supports Unicode identifiers, multiple number formats, and JSON-based configuration.
+### GoLexer - Lexical Analyzer for Compilers
+Tokenizer library for building compilers, interpreters, and DSLs. Used as a learning project to understand compiler frontends.
 
-**Features:**
-- 50+ token types
-- Single-pass tokenization with low memory allocation
-- Error recovery (detects errors while continuing)
-- Validated against 1700+ tokens
+**Implementation:**
+- 50+ token types with Unicode support
+- Single-pass tokenization, low memory allocation
+- Error recovery (continues after detecting errors)
+- Validated against 1700+ test tokens
 
 **Use cases:** Compiler frontends, configuration parsers, code analysis tools.
 
@@ -93,81 +99,60 @@ Tokenizer for building compilers, interpreters, and DSLs. Supports Unicode ident
 
 ---
 
-### Swift2FA - Secure Two-Factor Authentication Library
-PHP library supporting authenticator apps, email, and SMS verification with built-in encryption.
-
-**Integration is dead simple:**
-```php
-use Swift2FA\Swift2FA;
-$swift2fa = new Swift2FA();
-```
-
-**Security measures:**
-- Secret key encryption before storage
-- TOTP-based code generation
-- QR code generation for easy setup
-
-[View Project →](https://github.com/codetesla51/swift2FA)
-
----
-
-### Brevity - AI-Powered PDF Summarizer
-AI summarization tool with multiple output styles (short, detailed, objective questions, simplified explanations). Used extensively by students during exam preparation.
+### Brevity - AI PDF Summarizer
+AI tool for summarizing PDFs with multiple output styles. Built for exam prep, used by students for CBT preparation.
 
 **Technical challenges:**
 - UTF-8 encoding normalization
-- Character corruption fixes with replacement hashmaps
-- PDF text extraction and processing
-
-**Impact:** Helped coursemates study for Computer-Based Tests (CBT) by generating objective questions from study materials.
-
-**Student feedback:** "Brevity helped me through my exams, and I use it in my everyday life." - Olamide (Course Mate)
+- Character corruption fixes
+- PDF text extraction
 
 [View Project →](https://ai-brevity.vercel.app)
 
 ---
 
-## The Stoic Approach to Engineering
+### Swift2FA - Two-Factor Authentication Library
+PHP library for 2FA with authenticator apps, email, and SMS verification.
 
-I focus on what I can control:
-- The quality of my code
-- The depth of my understanding
-- The consistency of my effort
-- The problems I choose to solve
+**Security:**
+- TOTP-based code generation
+- Secret key encryption before storage
+- QR code generation
 
-Market trends, popularity, what's "hot" right now - that's all external noise. I build systems that work, understand principles that last, and let the rest take care of itself. This mindset keeps me focused on craft over hype, fundamentals over frameworks.
-
----
-
-## Current Focus
-
-```
-Building mini-git to understand version control internals
-Exploring distributed consensus algorithms
-Extending Axion into a full programming language
-Studying systems design patterns at scale
-```
+[View Project →](https://github.com/codetesla51/swift2FA)
 
 ---
 
-## Tech Stack
+## Writing
 
-**Languages**
+- [Building Git from Scratch in Go](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-3bnn)
+- [Building an HTTP Server from TCP Sockets: 250-4000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [More articles on DEV.to](https://dev.to/uthman_dev)
+
+---
+
+## Currently
+
+- Building distributed systems with Go
+- Studying consensus algorithms  
+- Extending Axion's parser into a full interpreter
+- Writing about systems programming
+
+---
+
+## Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
@@ -179,17 +164,15 @@ Studying systems design patterns at scale
 
 ---
 
-## Let's Connect
+## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devuthman.vercel.app/)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uthman_dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uthman_dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
 
 ---
 
 <div align="center">
-
-**Building things from first principles, one project at a time**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codetesla51&color=blueviolet&style=for-the-badge)
 
