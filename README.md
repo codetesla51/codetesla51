@@ -2,8 +2,8 @@
 
 Backend developer building with Go, PHP, and modern web technologies. I build things from scratch to understand how they work.
 
-[![GitHub followers](https://img.shields.io/github/followers/uthmandev?style=social)](https://github.com/uthmandev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/uthmandev?style=social)](https://twitter.com/uthmandev)
+[![GitHub followers](https://img.shields.io/github/followers/codetesla51?style=social)](https://github.com/codetesla51)
+[![Twitter Follow](https://img.shields.io/twitter/follow/uthman_dev?style=social)](https://twitter.com/uthman_dev)
 
 ---
 
@@ -28,7 +28,7 @@ HTTP/HTTPS server built on TCP sockets. Optimized from 250 RPS to 7,000 RPS thro
 ### GO-CHAT
 Concurrent terminal chat server handling 100+ connections. TLS encryption, real-time message broadcasting, AI integration, rate limiting.
 
-**Tech:** `Go` `WebSockets` `Concurrency` `TLS`
+**Tech:** `Go` `TCP` `Concurrency` `TLS`
 
 [View Project →](#)
 
@@ -76,9 +76,9 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=uthmandev&show_icons=true&theme=dark&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uthmandev&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=dark&hide_border=true)
 
 ---
 
