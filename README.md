@@ -16,14 +16,14 @@ Git implementation in Go without libraries. SHA-256 object storage, three-tree a
 
 **Tech:** `Go` `Git` `Compression`
 
-[View Project →](https://github.com/codetesla51/go-git) | [Article →](https://dev.to/codetesla51/building-git-from-scratch-in-go)
+[View Project →](https://github.com/codetesla51/go-git) | [Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
 
 ### Raw-HTTP
 HTTP/HTTPS server built on TCP sockets. Optimized from 250 RPS to 7,000 RPS through connection handling improvements, keep-alive support, and parser optimization.
 
 **Tech:** `Go` `TCP/IP` `HTTP` `TLS`
 
-[View Project →](https://github.com/codetesla51/raw-http) | [Article →](https://dev.to/codetesla51/building-an-http-server-from-tcp-sockets)
+[View Project →](https://github.com/codetesla51/raw-http) | [Article →](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
 
 ### GO-CHAT
 Concurrent terminal chat server handling 100+ connections. TLS encryption, real-time message broadcasting, AI integration, rate limiting.
@@ -39,7 +39,7 @@ CLI calculator with recursive descent parser. Comparison and logical operators, 
 
 **Tech:** `Go` `Parsing` `AST`
 
-[View Project →](https://github.com/codetesla51/axion) | [Article →](https://dev.to/codetesla51/building-a-terminal-calculator-that-does-logic)
+[View Project →](https://github.com/codetesla51/axion) | [Article →](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
 ### GoLexer
 Lexical analyzer for compilers and interpreters. 50+ token types, single-pass tokenization, error recovery. Validated against 1700+ test tokens.
@@ -66,11 +66,12 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ## Writing
 
-- [Building Git from Scratch in Go](https://dev.to/codetesla51/building-git-from-scratch-in-go)
-- [Building an HTTP Server from TCP Sockets: 250-7000 RPS](https://dev.to/codetesla51/building-an-http-server-from-tcp-sockets)
-- [Building a Terminal Calculator That Actually Does Logic](https://dev.to/codetesla51/building-a-terminal-calculator-that-does-logic)
+- [Building Git from Scratch in Go: What I Learned About Version Control Internals](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
+- [How Buffer Pooling Doubled My HTTP Server's Throughput (4000-7721 RPS)](https://dev.to/uthman_dev/how-buffer-pooling-doubled-my-http-servers-throughput-4000-7721-rps-3i0g)
+- [Building an HTTP Server from TCP Sockets: 250-4000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [Building a Terminal Calculator That Actually Does Logic - Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
-[More articles on DEV.to →](https://dev.to/codetesla51)
+[More articles on DEV.to →](https://dev.to/uthman_dev)
 
 ---
 
@@ -103,4 +104,5 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ## Connect
 
-[Portfolio](https://codetesla51.github.io) • [X](https://x.com/uthman_dev) • [Email](mailto:uoladele99@gmail.com) • [GitHub](https://github.com/codetesla51)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://codetesla51.github.io)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
