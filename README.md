@@ -2,8 +2,8 @@
 
 Backend developer building with Go, PHP, and modern web technologies. I build things from scratch to understand how they work.
 
-[![GitHub followers](https://img.shields.io/github/followers/codetesla51?style=social)](https://github.com/codetesla51)
-[![Twitter Follow](https://img.shields.io/twitter/follow/uthman_dev?style=social)](https://twitter.com/uthman_dev)
+[![X](https://img.shields.io/badge/-@uthman__dev-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/uthman_dev)
+[![DEV](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/codetesla51)
 
 ---
 
@@ -74,11 +74,19 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ---
 
+---
+
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=codetesla51&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -90,6 +98,13 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ---
 
