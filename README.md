@@ -5,8 +5,6 @@ Backend developer building with Go, PHP, and modern web technologies. I build th
 [![X](https://img.shields.io/badge/-@uthman__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/uthman_dev)
 [![DEV](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/codetesla51)
 
----
-
 ## Projects
 
 **Featured**
@@ -75,8 +73,6 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ---
 
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -106,3 +102,11 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://codetesla51.github.io)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
+
+---
+
+<div align="center">
+
+![Go Gopher](https://miro.medium.com/v2/1*vmFSpk9xtpxAHkH7cmt-3Q.png)
+
+</div>
