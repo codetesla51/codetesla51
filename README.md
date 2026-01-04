@@ -80,16 +80,6 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
