@@ -35,7 +35,7 @@ Concurrent terminal chat server handling 100+ connections. TLS encryption, real-
 
 **Tech:** `Go` `TCP` `Concurrency` `TLS`
 
-[View Project →](https://github.com/codetesla51/go-chat)
+[View Project →](https://github.com/codetesla51/go-chat-server)
 
 **More Projects**
 
