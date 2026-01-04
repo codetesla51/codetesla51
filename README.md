@@ -39,6 +39,13 @@ Concurrent terminal chat server handling 100+ connections. TLS encryption, real-
 
 **More Projects**
 
+### Programming Language Implementation Guide
+Complete guide to building programming languages from scratch. Covers lexers, parsers, interpreters, bytecode VMs, LLVM integration, and garbage collection with working Go implementations.
+
+**Tech:** `Go` `Compilers` `LLVM` `Virtual Machines`
+
+[View Project →](https://github.com/codetesla51/how-to-build-a-programming-language)
+
 ### Axion
 CLI calculator with recursive descent parser. Comparison and logical operators, scientific functions, unit conversions, persistent history. 95% test coverage.
 
