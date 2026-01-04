@@ -84,10 +84,6 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=codetesla51&theme=dark&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&layout=compact&theme=dark&hide_border=true)
 
 </div>
