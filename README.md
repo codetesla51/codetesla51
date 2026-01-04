@@ -1,6 +1,13 @@
 # Uthman Oladele
 
-Backend developer building with Go, PHP, and modern web technologies. I build things from scratch to understand how they work.
+I'm Uthman Oladele, a backend developer who builds APIs and explores systems programming.
+
+**What I'm working on:**
+- Systems programming
+- Distributed systems
+- System design patterns
+
+If you have opportunities or interesting projects, I'd like to hear from you.
 
 [![X](https://img.shields.io/badge/-@uthman__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/uthman_dev)
 [![DEV](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/codetesla51)
@@ -107,6 +114,6 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 <div align="center">
 
-![Go Gopher](https://miro.medium.com/v2/1*vmFSpk9xtpxAHkH7cmt-3Q.png)
+<img src="https://miro.medium.com/v2/1*vmFSpk9xtpxAHkH7cmt-3Q.png" width="200" alt="Go Gopher">
 
 </div>
