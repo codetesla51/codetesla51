@@ -1,4 +1,4 @@
-# Uthman Oladele
+l# Uthman Oladele
 
 I'm Uthman Oladele, a backend developer who builds APIs and explores systems programming.
 
@@ -16,6 +16,13 @@ If you have opportunities or interesting projects, I'd like to hear from you.
 
 **Featured**
 
+### Limitz
+Production-ready rate limiting library for Go. Five algorithms (Token Bucket, Fixed Window, Sliding Window Log, Sliding Window Counter, Leaky Bucket), three storage backends (in-memory, Redis, PostgreSQL). Sub-millisecond performance, thread-safe, swappable implementations.
+
+**Tech:** `Go` `Distributed Systems` `Redis` `PostgreSQL`
+
+[View Project →](https://github.com/codetesla51/limitz)
+
 ### go-git
 Git implementation in Go without libraries. SHA-256 object storage, three-tree architecture, zlib compression, commit history.
 
@@ -24,7 +31,7 @@ Git implementation in Go without libraries. SHA-256 object storage, three-tree a
 [View Project →](https://github.com/codetesla51/go-git) | [Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
 
 ### Raw-HTTP
-HTTP/HTTPS server built on TCP sockets. Optimized from 250 RPS to 7,000 RPS through connection handling improvements, keep-alive support, and parser optimization.
+HTTP/1.1 server built from TCP sockets. Supports keep-alive, TLS/HTTPS, static files, graceful shutdown. Buffer pooling optimization: 5,000 → 11,000 RPS.
 
 **Tech:** `Go` `TCP/IP` `HTTP` `TLS`
 
