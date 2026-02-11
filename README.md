@@ -59,7 +59,7 @@ Production-ready full-stack Todo application with advanced rate limiting and cac
 
 **Tech:** `Go` `Svelte` `PostgreSQL` `Redis` `Docker`
 
-[View Project →](https://github.com/codetesla51/todoapi)
+[View Project →](https://github.com/codetesla51/todoflow)
 
 ### GoLexer
 Lexical analyzer for compilers and interpreters. 50+ token types, single-pass tokenization, error recovery. Validated against 1700+ test tokens.
