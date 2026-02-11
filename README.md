@@ -1,4 +1,5 @@
- ### Uthman Oladele
+
+### Uthman Oladele
 
 I'm Uthman Oladele, a backend developer who builds APIs and explores systems programming.
 
@@ -16,12 +17,12 @@ If you have opportunities or interesting projects, I'd like to hear from you.
 
 **Featured**
 
-### Limitz
-Production-ready rate limiting library for Go. Five algorithms (Token Bucket, Fixed Window, Sliding Window Log, Sliding Window Counter, Leaky Bucket), three storage backends (in-memory, Redis, PostgreSQL). Sub-millisecond performance, thread-safe, swappable implementations.
+### Programming Language Implementation Guide
+Complete guide to building programming languages from scratch. Covers lexers, parsers, interpreters, bytecode VMs, LLVM integration, and garbage collection with working Go implementations.
 
-**Tech:** `Go` `Distributed Systems` `Redis` `PostgreSQL`
+**Tech:** `Go` `Compilers` `LLVM` `Virtual Machines`
 
-[View Project →](https://github.com/codetesla51/limitz)
+[View Project →](https://github.com/codetesla51/how-to-build-a-programming-language)
 
 ### go-git
 Git implementation in Go without libraries. SHA-256 object storage, three-tree architecture, zlib compression, commit history.
@@ -29,6 +30,13 @@ Git implementation in Go without libraries. SHA-256 object storage, three-tree a
 **Tech:** `Go` `Git` `Compression`
 
 [View Project →](https://github.com/codetesla51/go-git) | [Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
+
+### Limitz
+Production-ready rate limiting library for Go. Five algorithms (Token Bucket, Fixed Window, Sliding Window Log, Sliding Window Counter, Leaky Bucket), three storage backends (in-memory, Redis, PostgreSQL). Sub-millisecond performance, thread-safe, swappable implementations.
+
+**Tech:** `Go` `Distributed Systems` `Redis` `PostgreSQL`
+
+[View Project →](https://github.com/codetesla51/limitz)
 
 ### Raw-HTTP
 HTTP/1.1 server built from TCP sockets. Supports keep-alive, TLS/HTTPS, static files, graceful shutdown. Buffer pooling optimization: 5,000 → 11,000 RPS.
@@ -46,19 +54,12 @@ Concurrent terminal chat server handling 100+ connections. TLS encryption, real-
 
 **More Projects**
 
-### Programming Language Implementation Guide
-Complete guide to building programming languages from scratch. Covers lexers, parsers, interpreters, bytecode VMs, LLVM integration, and garbage collection with working Go implementations.
+### TodoAPI
+Production-ready full-stack Todo application with advanced rate limiting and caching. Multi-tier rate limiting with Redis/PostgreSQL failover, cache-aside pattern with pattern-based invalidation, paginated cache keys. Built with Go (Gin), Svelte 5, PostgreSQL, and Redis.
 
-**Tech:** `Go` `Compilers` `LLVM` `Virtual Machines`
+**Tech:** `Go` `Svelte` `PostgreSQL` `Redis` `Docker`
 
-[View Project →](https://github.com/codetesla51/how-to-build-a-programming-language)
-
-### Axion
-CLI calculator with recursive descent parser. Comparison and logical operators, scientific functions, unit conversions, persistent history. 95% test coverage.
-
-**Tech:** `Go` `Parsing` `AST`
-
-[View Project →](https://github.com/codetesla51/axion) | [Article →](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
+[View Project →](https://github.com/codetesla51/todoapi)
 
 ### GoLexer
 Lexical analyzer for compilers and interpreters. 50+ token types, single-pass tokenization, error recovery. Validated against 1700+ test tokens.
@@ -66,6 +67,13 @@ Lexical analyzer for compilers and interpreters. 50+ token types, single-pass to
 **Tech:** `Go` `Compiler Design`
 
 [View Project →](https://github.com/codetesla51/golexer)
+
+### Axion
+CLI calculator with recursive descent parser. Comparison and logical operators, scientific functions, unit conversions, persistent history. 95% test coverage.
+
+**Tech:** `Go` `Parsing` `AST`
+
+[View Project →](https://github.com/codetesla51/axion) | [Article →](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
 ### Brevity
 AI PDF summarizer for exam preparation. Used by students for CBT prep.
