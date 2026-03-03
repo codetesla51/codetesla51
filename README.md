@@ -23,13 +23,6 @@ A scripting language built in Go with a tree-walking interpreter. Features first
 
 [View Project →](https://github.com/codetesla51/logos)
 
-### Programming Language Implementation Guide
-Complete guide to building programming languages from scratch. Covers lexers, parsers, interpreters, bytecode VMs, LLVM integration, and garbage collection with working Go implementations.
-
-**Tech:** `Go` `Compilers` `LLVM` `Virtual Machines`
-
-[View Project →](https://github.com/codetesla51/how-to-build-a-programming-language)
-
 ### go-git
 Git implementation in Go without libraries. SHA-256 object storage, three-tree architecture, zlib compression, commit history.
 
