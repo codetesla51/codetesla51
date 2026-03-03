@@ -92,6 +92,7 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 ## Writing
 
+- [Stop Writing Bash Scripts, There's a Better Way](https://dev.to/uthman_dev/stop-writing-bash-scripts-theres-a-better-way-50en)
 - [Building Git from Scratch in Go: What I Learned About Version Control Internals](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
 - [How Buffer Pooling Doubled My HTTP Server's Throughput (4000-7721 RPS)](https://dev.to/uthman_dev/how-buffer-pooling-doubled-my-http-servers-throughput-4000-7721-rps-3i0g)
 - [Building an HTTP Server from TCP Sockets: 250-4000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
