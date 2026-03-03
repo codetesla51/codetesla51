@@ -1,5 +1,4 @@
-
-### Uthman Oladele
+# Uthman Oladele
 
 I'm Uthman Oladele, a backend developer who builds APIs and explores systems programming.
 
@@ -16,6 +15,13 @@ If you have opportunities or interesting projects, I'd like to hear from you.
 ## Projects
 
 **Featured**
+
+### Logos Programming Language
+A scripting language built in Go with a tree-walking interpreter. Features first-class functions, closures, tables, arrays, spawn/concurrency primitives, sandbox mode, and a rich standard library. Embeddable in Go applications via a clean API.
+
+**Tech:** `Go` `Compilers` `Interpreters` `AST`
+
+[View Project →](https://github.com/codetesla51/logos)
 
 ### Programming Language Implementation Guide
 Complete guide to building programming languages from scratch. Covers lexers, parsers, interpreters, bytecode VMs, LLVM integration, and garbage collection with working Go implementations.
@@ -98,7 +104,7 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 - [Building an HTTP Server from TCP Sockets: 250-4000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
 - [Building a Terminal Calculator That Actually Does Logic - Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
-[More articles on DEV.to →](https://dev.to/uthman_dev)
+[More articles on DEV.to →](https://dev.to/codetesla51)
 
 ---
 
