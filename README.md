@@ -1,6 +1,6 @@
 # Uthman Oladele
 
-I'm Uthman Oladele, a backend developer who builds APIs and explores systems programming.
+I'm Uthman Oladele, a backend developer who builds production-grade infrastructure in Go — rate limiters, distributed job queues, and programming languages.
 
 **What I'm working on:**
 - Systems programming
@@ -22,6 +22,13 @@ A scripting language built in Go with a tree-walking interpreter. Features first
 **Tech:** `Go` `Compilers` `Interpreters` `AST`
 
 [View Project →](https://github.com/codetesla51/logos)
+
+### Kyu
+Distributed job queue backed by PostgreSQL and Redis. Features middleware chains, exponential backoff, stale job reaper, per-job timeouts, job cancellation, and ghost job prevention via atomic operations and optimistic locking.
+
+**Tech:** `Go` `Distributed Systems` `PostgreSQL` `Redis`
+
+[View Project →](https://github.com/codetesla51/kyu)
 
 ### go-git
 Git implementation in Go without libraries. SHA-256 object storage, three-tree architecture, zlib compression, commit history.
@@ -74,20 +81,6 @@ CLI calculator with recursive descent parser. Comparison and logical operators, 
 
 [View Project →](https://github.com/codetesla51/axion) | [Article →](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
-### Brevity
-AI PDF summarizer for exam preparation. Used by students for CBT prep.
-
-**Tech:** `AI` `PDF Processing`
-
-[View Project →](https://github.com/codetesla51/brevity)
-
-### Swift2FA
-Two-factor authentication library for PHP. TOTP-based code generation, QR codes, encrypted secret storage.
-
-**Tech:** `PHP` `Security` `TOTP`
-
-[View Project →](https://github.com/codetesla51/swift2fa)
-
 ---
 
 ## Writing
@@ -117,11 +110,3 @@ Two-factor authentication library for PHP. TOTP-based code generation, QR codes,
 
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://codetesla51.github.io)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
-
----
-
-<div align="center">
-
-<img src="https://miro.medium.com/v2/1*vmFSpk9xtpxAHkH7cmt-3Q.png" width="200" alt="Go Gopher">
-
-</div>
