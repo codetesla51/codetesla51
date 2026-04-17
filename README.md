@@ -1,85 +1,42 @@
+
 # Uthman Oladele
 
-I'm Uthman Oladele, a backend developer who builds production-grade infrastructure in Go — rate limiters, distributed job queues, and programming languages.
+Backend developer who builds in Go — I don't stop at "it works."
 
-**What I'm working on:**
-- Systems programming
-- Distributed systems
-- System design patterns
+[
 
-If you have opportunities or interesting projects, I'd like to hear from you.
+![X](https://img.shields.io/badge/-@uthman__dev-000000?style=flat-square&logo=x&logoColor=white)
 
-[![X](https://img.shields.io/badge/-@uthman__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/uthman_dev)
-[![DEV](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/codetesla51)
+](https://x.com/uthman_dev)
+[
+
+![DEV](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)
+
+](https://dev.to/codetesla51)
+
+---
 
 ## Projects
 
-**Featured**
+### [Logos](https://github.com/codetesla51/logos)
+Scripting language in Go — tree-walking interpreter, first-class functions, closures, concurrency via `spawn`, sandbox mode, and a rich stdlib. Embeddable in Go apps.
 
-### Logos Programming Language
-A scripting language built in Go with a tree-walking interpreter. Features first-class functions, closures, tables, arrays, spawn/concurrency primitives, sandbox mode, and a rich standard library. Embeddable in Go applications via a clean API.
+`Go` `Compilers` `Interpreters` `AST`
 
-**Tech:** `Go` `Compilers` `Interpreters` `AST`
+### [Kyu](https://github.com/codetesla51/kyu)
+Distributed job queue backed by PostgreSQL and Redis. Middleware chains, exponential backoff, stale job reaper, job cancellation, ghost job prevention via atomic ops.
 
-[View Project →](https://github.com/codetesla51/logos)
+`Go` `Distributed Systems` `PostgreSQL` `Redis`
 
-### Kyu
-Distributed job queue backed by PostgreSQL and Redis. Features middleware chains, exponential backoff, stale job reaper, per-job timeouts, job cancellation, and ghost job prevention via atomic operations and optimistic locking.
+### [Limitz](https://github.com/codetesla51/limitz)
+Rate limiting library for Go. Five algorithms, three storage backends (in-memory, Redis, PostgreSQL). Sub-millisecond, thread-safe, swappable implementations.
 
-**Tech:** `Go` `Distributed Systems` `PostgreSQL` `Redis`
+`Go` `Distributed Systems` `Redis` `PostgreSQL`
 
-[View Project →](https://github.com/codetesla51/kyu)
+### [Raw-HTTP](https://github.com/codetesla51/raw-http) · [Article](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+HTTP/1.1 server from TCP sockets. Keep-alive, TLS, static files, graceful shutdown. Buffer pooling: 5,000 → 11,000 RPS.
 
-### go-git
-Git implementation in Go without libraries. SHA-256 object storage, three-tree architecture, zlib compression, commit history.
-
-**Tech:** `Go` `Git` `Compression`
-
-[View Project →](https://github.com/codetesla51/go-git) | [Article →](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
-
-### Limitz
-Production-ready rate limiting library for Go. Five algorithms (Token Bucket, Fixed Window, Sliding Window Log, Sliding Window Counter, Leaky Bucket), three storage backends (in-memory, Redis, PostgreSQL). Sub-millisecond performance, thread-safe, swappable implementations.
-
-**Tech:** `Go` `Distributed Systems` `Redis` `PostgreSQL`
-
-[View Project →](https://github.com/codetesla51/limitz)
-
-### Raw-HTTP
-HTTP/1.1 server built from TCP sockets. Supports keep-alive, TLS/HTTPS, static files, graceful shutdown. Buffer pooling optimization: 5,000 → 11,000 RPS.
-
-**Tech:** `Go` `TCP/IP` `HTTP` `TLS`
-
-[View Project →](https://github.com/codetesla51/raw-http) | [Article →](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
-
-### GO-CHAT
-Concurrent terminal chat server handling 100+ connections. TLS encryption, real-time message broadcasting, AI integration, rate limiting.
-
-**Tech:** `Go` `TCP` `Concurrency` `TLS`
-
-[View Project →](https://github.com/codetesla51/go-chat-server)
-
-**More Projects**
-
-### TodoAPI
-Production-ready full-stack Todo application with advanced rate limiting and caching. Multi-tier rate limiting with Redis/PostgreSQL failover, cache-aside pattern with pattern-based invalidation, paginated cache keys. Built with Go (Gin), Svelte 5, PostgreSQL, and Redis.
-
-**Tech:** `Go` `Svelte` `PostgreSQL` `Redis` `Docker`
-
-[View Project →](https://github.com/codetesla51/todoflow)
-
-### GoLexer
-Lexical analyzer for compilers and interpreters. 50+ token types, single-pass tokenization, error recovery. Validated against 1700+ test tokens.
-
-**Tech:** `Go` `Compiler Design`
-
-[View Project →](https://github.com/codetesla51/golexer)
-
-### Axion
-CLI calculator with recursive descent parser. Comparison and logical operators, scientific functions, unit conversions, persistent history. 95% test coverage.
-
-**Tech:** `Go` `Parsing` `AST`
-
-[View Project →](https://github.com/codetesla51/axion) | [Article →](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
+`Go` `TCP/IP` `HTTP` `TLS`
 
 ---
 
@@ -91,22 +48,49 @@ CLI calculator with recursive descent parser. Comparison and logical operators, 
 - [Building an HTTP Server from TCP Sockets: 250-4000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
 - [Building a Terminal Calculator That Actually Does Logic - Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 
-[More articles on DEV.to →](https://dev.to/codetesla51)
+[More on DEV.to →](https://dev.to/codetesla51)
 
 ---
 
 ## Tech Stack
 
+
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+
+
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+
+
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+
+
+
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+
+
+
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+
 
 ---
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://codetesla51.github.io)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uoladele99@gmail.com)
+[
+
+![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)
+
+](https://codetesla51.github.io)
+[
+
+![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
+
+](mailto:uoladele99@gmail.com)
