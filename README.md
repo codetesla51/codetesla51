@@ -1,71 +1,73 @@
 # Uthman Oladele
 
-> Backend developer building in Go. I don't stop at "it works."
+> Backend engineer building high-performance systems in Go.  
+> I create infrastructure that stays reliable under real production load.
 
-[
-
-![X](https://img.shields.io/badge/X-%40uthman__dev-000000?style=for-the-badge&logo=x&logoColor=white)
-
-](https://x.com/uthman_dev)
-[
-
-![DEV](https://img.shields.io/badge/DEV.to-codetesla51-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-
-](https://dev.to/codetesla51)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-codetesla51.github.io-111111?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-](https://codetesla51.github.io)
+<p align="left">
+  <a href="https://x.com/uthman_dev">
+    <img src="https://img.shields.io/badge/X-@uthman__dev-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://dev.to/codetesla51">
+    <img src="https://img.shields.io/badge/DEV-codetesla51-111111?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://codetesla51.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## Stack
 
-
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-
-
-
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-
-
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte" />
+</p>
 
 ---
 
-## Projects
+## Best Projects
 
-**[Logos](https://github.com/codetesla51/logos)** — *(from Greek — word, reason, logic)* A CLI-first scripting language built for clarity. Readable syntax, proper error handling, and code you can come back to a week later and still understand.
-`Go` `Language Design` `Compilers`
+### [Kyu](https://github.com/codetesla51/kyu)
 
-**[Kyu](https://github.com/codetesla51/kyu)** — Distributed job queue for Go backed by PostgreSQL and Redis. Postgres is the source of truth — every job, its full history, retry count, and error message persisted. Redis acts as the priority queue. Jobs survive a Redis restart.
+A distributed job queue library for Go backed by PostgreSQL and Redis. Built for emails, billing, notifications, scheduled tasks, retries, and background work that must remain durable even during crashes or Redis restarts.
+
 `Go` `PostgreSQL` `Redis` `Distributed Systems`
 
-**[Seal](https://github.com/codetesla51/seal)** — Lightweight JWT auth library for Go. Token rotation, single-use refresh tokens, instant session revocation, and multiple storage backends. Drop it in and auth is done.
+---
+
+### [Logos](https://github.com/codetesla51/logos)
+
+A modern scripting language built for clarity. Designed for automation, CLI tools, internal tooling, and scripts that stay readable as they grow. Includes built-in HTTP, JSON, concurrency, and standalone binary compilation.
+
+`Go` `Language Design` `Compiler`
+
+---
+
+### [Seal](https://github.com/codetesla51/seal)
+
+A lightweight authentication library for Go that handles secure login systems, rotating refresh tokens, middleware protection, session revocation, and multi-device auth without rebuilding auth from scratch.
+
 `Go` `JWT` `Security`
 
-**[Limitz](https://github.com/codetesla51/limitz)** — High-performance rate limiting for Go. Five battle-tested algorithms, pluggable storage backends. Works for single-instance and distributed apps.
-`Go` `Redis` `PostgreSQL`
+---
 
-**[Raw-HTTP](https://github.com/codetesla51/raw-http)** — HTTP/1.1 server built from scratch. Route matching, keep-alive, TLS, graceful shutdown, panic recovery. 11,000 RPS. Built to understand how the web actually works.
-`Go` `TCP/IP` `HTTP` `Performance`
+### [Limitz](https://github.com/codetesla51/limitz)
+
+A high-performance rate limiting library for Go built to protect APIs and services from abuse, brute force attempts, traffic spikes, and noisy clients in both single-server and distributed environments.
+
+`Go` `Performance` `Redis`
+
+---
+
+### [Raw HTTP](https://github.com/codetesla51/raw-http)
+
+An HTTP/1.1 server written from scratch in Go. Handles routing, parsing, keep-alive, TLS, static files, graceful shutdown, and high throughput while showing how the web works under the hood.
+
+`Go` `HTTP` `Networking`
 
 ---
 
